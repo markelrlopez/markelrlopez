@@ -1,9 +1,17 @@
-### Hi there 👋
+# Markel Rubiños
+Descripcion por rellenar
 
-Here are some ideas to get you started:
+# Contacto
+[Twitter - @MarruDv](http://twitter.com/MarruDv)
 
-- 🔭 I’m currently working on JavaScript/HTML/CSS projects
-- 🌱 I’m currently learning 
-- 💬 Ask me about something
+[Gmail - MarkelMontejo@gmail.com](mailto:markelmontejo@gmail.com)
+
+# Ultimos Proyectos
+> Wordle 
+
+> ToDoList
+
+> Twitter Bot
+
 
 
