@@ -15,7 +15,7 @@ Soy Markel y estoy en mi ultimo curso de Ingeniería Informática de Gestión y 
 
 > Twitter Bot
 
-> TriviApp
+> Trivia App
 
 
 
