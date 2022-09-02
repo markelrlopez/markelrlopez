@@ -9,12 +9,17 @@ Soy Markel y estoy en mi ultimo curso de Ingeniería Informática de Gestión y 
 
 # Últimos Proyectos
 > [HTML, CSS, JS] Wordle 
+
 > [HTML, CSS, JS] ToDoList
+
 > [HTML, CSS, JS] Twitter Bot
+
 > [HTML, CSS, JS] Trivia App
 
 > [Python] Twitter Bot
+
 > [Python] Organizer Bot
+
 > [Python] Reminder
 
 
