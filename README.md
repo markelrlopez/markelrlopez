@@ -9,13 +9,13 @@ Soy Markel y estoy en mi ultimo curso de Ingeniería Informática de Gestión y 
 [Gmail - MarkelMontejo@gmail.com](mailto:markelmontejo@gmail.com)
 
 # Últimos Proyectos
-> Wordle 
+> [HTML, CSS, JS] Wordle 
 
-> ToDoList
+> [HTML, CSS, JS] ToDoList
 
-> Twitter Bot
+> [HTML, CSS, JS] Twitter Bot
 
-> Trivia App
+> [HTML, CSS, JS] Trivia App
 
 
 
