@@ -7,7 +7,7 @@ Soy Markel y estoy en mi ultimo curso de Ingeniería Informática de Gestión y 
 [Gmail - MarkelMontejo@gmail.com](mailto:markelmontejo@gmail.com)
 
 # Últimos Proyectos
-> [Angular] [Tortillometro](tortillometro.com)
+> [Angular] [Tortillometro](https://tortillometro.com/list)
 
 > [HTML, CSS, JS] Wordle 
 
