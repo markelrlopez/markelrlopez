@@ -1,25 +1,33 @@
-# Markel Rubiños
-Hola buenas!
+# 👨‍💻 Markel Rubiños
 
-Soy Markel y estoy en mi ultimo curso de Ingeniería Informática de Gestión y Sistemas de Información y me gustaría adquirir competencias en campos relacionados con ingeniería de software, análisis de datos o programación. A partir de febrero de 2023 tengo pensado empezar a hacer practicas de empresa con total disponibilidad. Me considero una persona responsable, aplicada y centrada. 
-# Contacto
+¡Hola, buenas!
 
-[Gmail - MarkelMontejo@gmail.com](mailto:markelmontejo@gmail.com)
+Soy **Markel Rubiños**, estudiante de último curso de **Ingeniería Informática de Gestión y Sistemas de Información**. Me entusiasma seguir creciendo profesionalmente en áreas como la **ingeniería de software**, el **análisis de datos** y la **programación**.
 
-# Últimos Proyectos
-> [Angular] [Tortillometro](https://markelrlopez.com)
+A partir de **febrero de 2023** estoy disponible para realizar **prácticas en empresa** a tiempo completo. Me considero una persona **responsable**, **aplicada** y **centrada**.
 
-> [HTML, CSS, JS] Wordle 
+---
 
-> [HTML, CSS, JS] ToDoList
+## 📫 Contacto
 
-> [HTML, CSS, JS] Trivia App
+✉️ [markelmontejo@gmail.com](mailto:markelmontejo@gmail.com)
 
-> [Python] Twitter Bot
+---
 
-> [Python] Organizer Bot
+## 🚀 Últimos Proyectos
 
-> [Python] Reminder
+| Proyecto         | Tecnologías           | Enlace |
+|------------------|-----------------------|--------|
+| Tortillómetro    | Angular               | [Ver proyecto](https://markelrlopez.com) |
+| Wordle           | HTML, CSS, JavaScript | _Próximamente_ |
+| ToDoList         | HTML, CSS, JavaScript | _Próximamente_ |
+| Trivia App       | HTML, CSS, JavaScript | _Próximamente_ |
+| Twitter Bot      | Python                | _Próximamente_ |
+| Organizer Bot    | Python                | _Próximamente_ |
+| Reminder         | Python                | _Próximamente_ |
 
+> Puedes encontrar más en mis repositorios 📁
 
+---
 
+¡Gracias por visitar mi perfil!
