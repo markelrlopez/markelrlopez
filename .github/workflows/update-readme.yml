@@ -1,0 +1,33 @@
+name: Actualizar README con repos recientes
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: repos } = await github.repos.listForUser({
+              username: 'markelrlopez',
+              sort: 'updated',
+              per_page: 5
+            });
+
+            const fs = require('fs');
+            const readme = `# 👨‍💻 Markel Rubiños
+
+Soy Markel, estudiante de último curso de Ingeniería Informática...
+
+## 🚀 Últimos Repositorios
+
+${repos.map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description || ''}`).join('\n')}
+
+`;
+
+            fs.writeFileSync('README.md', readme);
