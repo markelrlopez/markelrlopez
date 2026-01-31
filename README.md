@@ -14,18 +14,17 @@ A partir de **febrero de 2023** estoy disponible para realizar **prácticas en e
 
 ---
 
-## 🚀 Últimos Proyectos
+## 🚀 Proyectos Destacados
 
-| Proyecto         | Tecnologías           | Enlace |
-|------------------|-----------------------|--------|
-| Tortillómetro    | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30"/> </a> | <a href="https://markelrlopez.com" target="_blank">Ver proyecto</a> |
-| Wordle           | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  | <a href="https://github.com/markelrlopez/wordle" target="_blank">Ver en GitHub</a> |
-| ToDoList         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  | <a href="https://github.com/markelrlopez/todolist" target="_blank">Ver en GitHub</a> |
-| Trivia App       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  | <a href="https://github.com/markelrlopez/trivia-app" target="_blank">Ver en GitHub</a> |
-| Twitter Bot      | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://github.com/markelrlopez/twitter-bot" target="_blank">Ver en GitHub</a> |
-| Organizer Bot    | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://github.com/markelrlopez/organizer-bot" target="_blank">Ver en GitHub</a> |
-| Reminder         | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://github.com/markelrlopez/reminder" target="_blank">Ver en GitHub</a> |
+* **[Tortillómetro](https://markelrlopez.com)**: Aplicación web desarrollada en Angular para la gestión y valoración de tortillas. ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+* **[Wordle Clone](https://github.com/markelrlopez/wordle)**: Recreación del popular juego de palabras utilizando lógica pura de JavaScript. ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **[Twitter Bot](https://github.com/markelrlopez/twitter-bot)**: Bot automatizado en Python para interactuar con la API de Twitter de forma programada. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **[Organizer Bot](https://github.com/markelrlopez/organizer-bot)**: Herramienta de automatización para la organización de archivos y tareas mediante scripts de Python. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **[Trivia App](https://github.com/markelrlopez/trivia-app)**: Aplicación de cuestionarios con sistema de puntuación en tiempo real basada en JavaScript. ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **[ToDoList](https://github.com/markelrlopez/todolist)**: Gestor de tareas eficiente con almacenamiento local y diseño minimalista. ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **[Reminder](https://github.com/markelrlopez/reminder)**: Sistema de notificaciones y recordatorios personalizados desarrollado íntegramente en Python. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+---
 
 ### 🧠 Tortillómetro (Angular)
 ![Tortillómetro](/assets/tortillometro1.png)
